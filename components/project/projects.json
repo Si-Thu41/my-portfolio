@@ -1,0 +1,21 @@
+{
+   
+    "1":{
+        "id":2,
+        "live":true,
+        "title":"UniPharma",
+        "description":"Built an AI-powered system that automates prescription processing and medicine verification using OCR, NLP, and YOLO-based computer vision. The platform extracts medicine names from prescriptions and verifies dispensed drugs in real time, helping reduce manual work and potential dispensing errors. For pharmacist, username: pharm, password: ph@rm123. For admin, username: admin, password: admin@123.",
+        "image":"/projects/pharmacy_logo.jpg",
+        "skills":["Next.js","OCR","PostgreSQL","AI integration", "Natural Language Processing"],
+        "link":"https://hackathon-git-main-si-thus-projects-8a2d568c.vercel.app/"
+    },
+     "2":{
+        "id":1,
+        "live":false,
+        "title":"NaingAirLine",
+        "description":"An online flight booking platform built with React.js, Express.js, and PostgreSQL. It features user authentication, flight search, booking management, and a responsive design for seamless user experience.",
+        "image":"/projects/naing_airline_logo.png",
+        "skills":["React.js","Express.js","PostgreSQL"],
+        "link":"https://github.com/Si-Thu41/Naing-Airline"
+    }
+}
