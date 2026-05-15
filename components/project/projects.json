@@ -3,7 +3,7 @@
     "1":{
         "id":2,
         "live":true,
-        "title":"UniPharma",
+        "title":"UniPharma (Hackathon)",
         "description":"Built an AI-powered system that automates prescription processing and medicine verification using OCR, NLP, and YOLO-based computer vision. The platform extracts medicine names from prescriptions and verifies dispensed drugs in real time, helping reduce manual work and potential dispensing errors. For pharmacist, username: pharm, password: ph@rm123. For admin, username: admin, password: admin@123.",
         "image":"/projects/pharmacy_logo.jpg",
         "skills":["Next.js","OCR","PostgreSQL","AI integration", "Natural Language Processing"],
@@ -17,5 +17,23 @@
         "image":"/projects/naing_airline_logo.png",
         "skills":["React.js","Express.js","PostgreSQL"],
         "link":"https://github.com/Si-Thu41/Naing-Airline"
+    },
+    "3":{
+        "id":3,
+        "live":false,
+        "title":"Hotel Booking & Golf Program Management System (Hackathon)",
+        "description":"(As a front end developer) Developed a full-stack booking platform that allows users to reserve hotel rooms and golf programs, manage bookings, and view analytics through a centralized dashboard. The system also integrates an AI-powered assistant for FAQs, personalized recommendations, and dynamic pricing insights.",
+        "image":"/projects/cimso-logo.webp",
+        "skills":["Tailwind CSS","Express.js","PostgreSQL", "PHP Laravel", "AI integration"],
+        "link":"https://github.com/soungoolwin/CiMSO-Hackathon"
+    },
+     "4":{
+        "id":4,
+        "live":false,
+        "title":"IoT Sonar System",
+        "description":"An IoT Sonar built using a servo motor, HC-SR04 ultrasonic sensor, and an ESP32 microcontroller. The radar scans its surroundings by rotating the servo motor while measuring distances with the ultrasonic sensor. The collected data is transmitted to a web interface for real-time visualization and monitoring.",
+        "image":"/projects/sonar.png",
+        "skills":["Python","C++","IoT"],
+        "link":"https://github.com/Paradox-9007/Sonar-System-with-Ultrasonic-Sensor-and-Motor"
     }
 }
