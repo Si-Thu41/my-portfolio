@@ -20,7 +20,7 @@ export default function HomePage(){
                 </div>
             </div>
         </div>
-         <div className="flex flex-col text-center items-start justify-center">
+         <div className="flex flex-col items-start justify-center">
                 <h1 className="text-white text-6xl mb-3">Si Thu Naing</h1>
                 <p className="text-gray-200 text-3xl ">ICT Student | Full Stack Developer</p>
                 <Typing />

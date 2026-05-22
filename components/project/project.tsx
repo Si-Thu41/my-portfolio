@@ -1,4 +1,5 @@
 import Shelf from "./projectshelf";
+import Link from "next/link";
 import projects from "./projects.json";  // Import the JSON data
 
 export default function Project() {
@@ -19,6 +20,11 @@ export default function Project() {
                     skills={project.skills}  // Pass skills if needed
                 />
             ))}
+            <div className="flex justify-center mt-10">
+                  <Link href="https://github.com/Si-Thu41" target="_blank" className="  text-white bg-green-700 py-3 px-3 rounded-md">
+                Go to my github
+            </Link>
+            </div>
         </div>
     );
 }
